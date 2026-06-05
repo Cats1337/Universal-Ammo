@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/ua_crate"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
